@@ -1,1 +1,1 @@
-Exp1 is a c-s network program based on C socket programming, server sends a file to client which is requested by client using a filename, this program is intended to monitor stop-and-wait protocol.
+Exp1 is a c-s network program based on C socket programming, server sends a file to client which is requested by client using a filename, this program is intended to implement a stop-and-wait protocol inside it.
